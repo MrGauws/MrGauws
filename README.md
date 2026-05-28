@@ -6,47 +6,48 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-Web / fullstack developer from Sweden, focused on building practical, maintainable digital products with a strong connection between code, design, users, and business value.
+I'm a web / fullstack developer from Sweden who likes building things that are clear, useful, and actually make sense for the people using them.
 
-I enjoy working close to the product: turning real needs into fast, clear interfaces, reliable backend flows, CMS-driven websites, and solutions that are easy to keep improving after launch.
+Most of my work sits somewhere between frontend, backend, CMS, and product thinking. I like taking an idea from "this should exist" to something that works, feels good to use, and can keep growing without turning into a mess.
 
-## Currently building
+I'm early in my developer career, but I've spent a lot of time building real projects, working close to users and clients, and learning by shipping.
 
-**Byrdi** is my main product project: a modern golf app and platform built with **React Native**, **Expo**, **TypeScript**, **Node.js**, **PostgreSQL/PostGIS**, and **OpenStreetMap data**.
+## Currently building: Byrdi
 
-The project combines mobile UX, geospatial data, product thinking, and backend architecture. It is where I am putting a lot of my current focus: building something useful, polished, and technically solid from the ground up.
+**Byrdi** is my biggest personal project right now: a modern golf app and platform built with **React Native**, **Expo**, **TypeScript**, **Node.js**, **PostgreSQL/PostGIS**, and **OpenStreetMap data**.
+
+It's the kind of project I enjoy most: product, maps, mobile UX, data, backend logic, and a lot of small decisions that need to fit together properly. I'm building it seriously, not as a quick demo.
 
 ## Selected projects
 
-| Project | What it shows | Tech |
+| Project | Why it matters | Tech |
 | --- | --- | --- |
-| [Portfolio](https://github.com/MrGauws/portfolio) | Fullstack personal portfolio with a modern frontend and API/backend structure. | Next.js, TypeScript, React, Tailwind, Express, MongoDB, Docker |
-| [Telgea frontend test](https://github.com/MrGauws/telgea-frontend-test) | Responsive UI implementation, component refactoring, validation, modal flows, and accessibility considerations. | Next.js, TypeScript, React, Tailwind |
-| [MyStore](https://github.com/MrGauws/MyStore) | Shopify theme work and e-commerce frontend workflow using Liquid and build tooling. | Shopify, Liquid, JavaScript, SCSS |
-| [Slutprojekt](https://github.com/MrGauws/Slutprojekt) | Shopify-focused theme structure and storefront development. | Shopify, Liquid, JavaScript |
-| [slutprojekt1](https://github.com/MrGauws/slutprojekt1) | WordPress theme workflow with Vite-based asset builds. | WordPress, PHP, JavaScript, SCSS |
+| [Portfolio](https://github.com/MrGauws/portfolio) | My own fullstack portfolio setup with a modern frontend and separate backend. | Next.js, TypeScript, React, Tailwind, Express, MongoDB, Docker |
+| [Telgea frontend test](https://github.com/MrGauws/telgea-frontend-test) | A focused frontend case with responsive UI, component cleanup, validation, modal flows, and attention to accessibility. | Next.js, TypeScript, React, Tailwind |
+| [MyStore](https://github.com/MrGauws/MyStore) | Shopify theme work and e-commerce frontend structure. | Shopify, Liquid, JavaScript, SCSS |
+| [Slutprojekt](https://github.com/MrGauws/Slutprojekt) | Another Shopify storefront/theme project, useful for showing Liquid and theme workflow. | Shopify, Liquid, JavaScript |
+| [slutprojekt1](https://github.com/MrGauws/slutprojekt1) | WordPress theme work with Vite-based assets. | WordPress, PHP, JavaScript, SCSS |
 
-Some of my older public repositories are school assignments and learning projects. I keep them public as part of the journey, but the projects above are the most relevant examples of how I work today.
+Some older repos here are school assignments and early learning projects. I keep them public, but the projects above are closer to the kind of work I want to do now.
 
 ## Tech I work with
 
 **Frontend:** JavaScript, TypeScript, React, Next.js, React Native, Expo, Tailwind CSS, SCSS  
 **Backend:** Node.js, Express, PHP, Symfony, REST APIs  
 **Data:** SQL, PostgreSQL, PostGIS, MongoDB  
-**CMS & commerce:** Webflow, WordPress, Shopify, Liquid  
+**CMS / commerce:** Webflow, WordPress, Shopify, Liquid  
 **Tools:** Git, Docker, Vite, npm, Figma-to-code workflows
 
-## How I like to work
+## What I care about
 
-- I care about building things that people can actually use.
-- I like clear UI, fast feedback loops, and code that is understandable after the first version ships.
-- I am comfortable moving between frontend, backend, CMS, integrations, and support-adjacent problem solving.
-- I enjoy learning new tools when they help the product, not just because they are new.
+- Clean interfaces that are easy to understand.
+- Code that is practical to maintain, not just nice in the first commit.
+- Products that solve a real problem.
+- Good communication between design, tech, and the person who actually needs the thing built.
+- Learning fast, asking better questions, and improving through real work.
 
-## What I am looking for
+## What I'm looking for
 
-I am interested in roles within **frontend**, **fullstack**, **web development**, and **product-oriented development**, especially in teams where I can contribute practically, learn fast, and help turn ideas into working products.
+I'm looking for opportunities in **frontend**, **fullstack**, **web development**, or **product-focused development**.
 
----
-
-You can find my public work here on GitHub. More project context is usually best shown through the code, the product decisions, and the small details that make a solution easier to use and maintain.
+I work best in teams where I can be hands-on, take responsibility, learn quickly, and help turn ideas into something real.
