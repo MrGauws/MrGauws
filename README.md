@@ -6,7 +6,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-I'm a web / fullstack developer from Sweden who likes building things that are clear, useful, and actually make sense for the people using them.
+I'm a web / fullstack developer from Sweden who likes building things that are clear, useful, and make sense for the people using them.
 
 Most of my work sits somewhere between frontend, backend, CMS, and product thinking. I like taking an idea from "this should exist" to something that works, feels good to use, and can keep growing without turning into a mess.
 
